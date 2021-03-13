@@ -1,6 +1,6 @@
 #game 2048
 #shift all values in the matrix up down left or right
-#if the colliding values are same then double them, collison happens b/w two at a time & starts from extreme edge to the direction
+#if the colliding values are same then double them, collison happens b/w two at a time & starts from extreme edge to the direction of movement
 #given a state of the game and a set of moves find the final state
 #play the game online at http://gabrielecirulli.github.io/2048/
 
